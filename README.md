@@ -12,6 +12,10 @@ This is a device that requires **3.3Volts** ensure that data levels match.
 Also this device draws more current then an Arduino supplies which has the potential to damage your connected devices.
 It is highly recommended that an external power supply is used.
 
+## Software
+
+[Esplorer](https://esp8266.ru/esplorer/)
+
 ## Libraries
 
 [esp8266/Arduino](https://github.com/esp8266/Arduino)
