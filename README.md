@@ -89,8 +89,10 @@ ESP8266 has many different versions of the hardware available.
 </div>
 
 # ** WARNING **
-This is a device that requires **3.3Volts** ensure that data levels match.
-Also this device draws more current then an Arduino supplies which has the potential to damage your connected devices.
+This is a device that requires **3.3Volts** for power and I/O.
+If the device is connected directly to 5V devices then this may not work and possibly cause permanent or fatal damage to the chip.
+
+Also this device draws more current then an Arduino device supplies which has the potential to damage your connected devices.
 It is highly recommended that an external power supply is used.
 
 ## Software
