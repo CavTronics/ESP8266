@@ -135,6 +135,9 @@ It is highly recommended that an external power supply is used.
 
 [wemos](https://github.com/wemos)
 
+[WiFiManager](https://github.com/tzapu/WiFiManager)
+
+
 # Useful links
 [esp32.net](http://esp32.net/)
 
