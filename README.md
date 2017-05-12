@@ -137,6 +137,16 @@ It is highly recommended that an external power supply is used.
 
 [WiFiManager](https://github.com/tzapu/WiFiManager)
 
+## Drivers
+
+### USB to Serial /  UART 
+The Nodemcu requires silabs CP210x driver to be installed for Arduino IDE to recognise the device. 
+
+[silabs CP210x](http://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
+
+[ch340](http://sparks.gogo.co.nz/ch340.html)
+
+[ch341](http://0xcf.com/2015/03/13/chinese-arduinos-with-ch340-ch341-serial-usb-chip-on-os-x-yosemite/)
 
 # Useful links
 [esp32.net](http://esp32.net/)
