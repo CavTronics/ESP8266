@@ -88,6 +88,25 @@ ESP8266 has many different versions of the hardware available.
 
 </div>
 
+## Boards
+
+### Wemos
+
+### NodeMCU
+
+### Adaptor Boards
+
+## Firmware
+
+### LUA
+
+### MicroPython
+
+## How to update or re-flashing 
+[For ESP8266 ESP-01  read more at esp8266.com](http://www.esp8266.com/viewtopic.php?f=15&t=12440)
+
+[Tutorial ESPEasy Firmware Upload](https://www.letscontrolit.com/wiki/index.php/Tutorial_ESPEasy_Firmware_Upload)
+
 # ** WARNING **
 This is a device that requires **3.3Volts** for power and I/O.
 If the device is connected directly to 5V devices then this may not work and possibly cause permanent or fatal damage to the chip.
@@ -96,6 +115,8 @@ Also this device draws more current then an Arduino device supplies which has th
 It is highly recommended that an external power supply is used.
 
 ## Software
+
+[esp8266/Arduino](https://github.com/esp8266/Arduino)
 
 [Esplorer](https://esp8266.ru/esplorer/)
 
@@ -106,6 +127,24 @@ It is highly recommended that an external power supply is used.
 
 ## Libraries
 
+[github esp8266](https://github.com/esp8266)
+
 [esp8266/Arduino](https://github.com/esp8266/Arduino)
 
 [nodemcu firmware](https://github.com/nodemcu/nodemcu-firmware)
+
+[wemos](https://github.com/wemos)
+
+# Useful links
+[esp32.net](http://esp32.net/)
+
+[image to data converter](https://websemantics.uk/tools/image-to-data-uri-converter/)
+
+[nodemcu.com](http://nodemcu.com/index_en.html)
+
+[wemos-webserver-example](http://www.esp8266learning.com/wemos-webserver-example.php)
+
+[d1-mini-pro](https://www.wemos.cc/product/d1-mini-pro.html)
+
+[D1-mini-Shields](https://www.wemos.cc/D1-mini-Shields)
+
