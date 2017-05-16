@@ -102,6 +102,9 @@ ESP8266 has many different versions of the hardware available.
 
 ### MicroPython
 
+[MicroPython tutorial for ESP8266](http://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/index.html)
+
+
 ## How to update or re-flashing 
 [For ESP8266 ESP-01  read more at esp8266.com](http://www.esp8266.com/viewtopic.php?f=15&t=12440)
 
@@ -123,6 +126,8 @@ It is highly recommended that an external power supply is used.
 [Esplorer Forums](http://www.esp8266.com/viewtopic.php?f=22&t=882)
 
 [ESP8266 Wiki](http://www.esp8266.com/wiki/doku.php)
+
+[nodemcu-devkit](https://github.com/nodemcu/nodemcu-devkit)
 
 
 ## Libraries
