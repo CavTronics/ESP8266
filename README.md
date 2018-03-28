@@ -88,7 +88,14 @@ ESP8266 has many different versions of the hardware available.
 
 </div>
 
+## Installing 
+Arduino IDE
+
 ## Boards
+
+### Adafruit Huzzah
+
+### DFRobot Firebeetle
 
 ### Wemos
 
