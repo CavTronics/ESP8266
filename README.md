@@ -128,6 +128,10 @@ If the device is connected directly to 5V devices then this may not work and pos
 Also this device draws more current then an Arduino device supplies which has the potential to damage your connected devices.
 It is highly recommended that an external power supply is used.
 
+## Documentation
+
+[esp8266 readthedocs](https://arduino-esp8266.readthedocs.io/en/latest/index.html)
+
 ## Software
 
 [esp8266/Arduino](https://github.com/esp8266/Arduino)
@@ -176,4 +180,11 @@ The Nodemcu requires silabs CP210x driver to be installed for Arduino IDE to rec
 [d1-mini-pro](https://www.wemos.cc/product/d1-mini-pro.html)
 
 [D1-mini-Shields](https://www.wemos.cc/D1-mini-Shields)
+
+
+p.s:
+I **LOVE** coffee! Buy me a coffee at:   
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZHBUNDXJXVW4U)
+
 
