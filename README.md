@@ -2,6 +2,10 @@
 
 
 # ESP8266
+## Installing for Arduino IDE and using git
+
+[Install instructions](https://github.com/esp8266/Arduino)
+
 ## Introduction
 The ESP8266 is a low cost wifi module that can be used as a stand alone or with an Arduino.
 
