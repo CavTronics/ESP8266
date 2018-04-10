@@ -2,6 +2,7 @@
 
 
 # ESP8266
+![ESP8266](https://img.shields.io/badge/ESP-8266-000000.svg?longCache=true&style=flat&colorA=CC101F)
 ## Installing for Arduino IDE and using git
 
 [Install instructions](https://github.com/esp8266/Arduino)

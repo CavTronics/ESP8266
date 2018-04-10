@@ -1,5 +1,7 @@
 # Installing ESP8266
 
+![ESP8266](https://img.shields.io/badge/ESP-8266-000000.svg?longCache=true&style=flat&colorA=CC101F)
+![ESP32](https://img.shields.io/badge/ESP-32-000000.svg?longCache=true&style=flat&colorA=CC101F)
 ## Arduino IDE
 Install the latest version
 
